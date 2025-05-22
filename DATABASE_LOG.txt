@@ -1,0 +1,15 @@
+Msg 2714, Level 16, State 5, Line 55
+There is already an object named 'FK_department' in the database.
+Msg 1750, Level 16, State 1, Line 55
+Could not create constraint or index. See previous errors.
+
+Could not drop object 'dbo.employee' because it is referenced by a FOREIGN KEY constraint. (Microsoft SQL Server, Error: 3726)
+
+Could not drop object 'dbo.employee' because it is referenced by a FOREIGN KEY constraint. (Microsoft SQL Server, Error: 3726)
+
+
+Msg 547, Level 16, State 0, Line 102
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PROJECT_NO". The conflict occurred in database "company", table "dbo.PROJECT", column 'PNumber'.
+The statement has been terminated.
+
+
